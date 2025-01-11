@@ -17,9 +17,9 @@ This project is part of the **Finalytics Course: Data Science with Python** and 
 3. **Insights and Recommendations**: Identifying key factors influencing term deposit subscriptions.
 
 ## Deliverables
-- **Python Analysis Transcript:** [Code_Transcript.pdf](link-to-file)
+- **Python Analysis Transcript:** [Code_Transcript.pdf]([link-to-file](https://github.com/gokulan006/Bank-Marketing-Data-Analysis/blob/main/Code_Transcript.pdf))
 - **Presentation:** [Analysis_Presentation.pptx](link-to-file)
-- **Complete Solution:** [Case_Solution_Submission.zip](link-to-file)
+ 
 
 ## Key Insights
 - **Demographics**: Majority of clients are aged between 30-40 and hold management or technician roles.
