@@ -17,8 +17,8 @@ This project is part of the **Finalytics Course: Data Science with Python** and 
 3. **Insights and Recommendations**: Identifying key factors influencing term deposit subscriptions.
 
 ## Deliverables
-- **Python Analysis Transcript:** [Code_Transcript.pdf]([link-to-file](https://github.com/gokulan006/Bank-Marketing-Data-Analysis/blob/main/Code_Transcript.pdf))
-- **Presentation:** [Analysis_Presentation.pptx](link-to-file)
+- **Python Analysis Transcript:** [Code_Transcript.pdf](https://github.com/gokulan006/Bank-Marketing-Data-Analysis/blob/main/Code_Transcript.pdf).
+- **Presentation:** [Analysis_Presentation.pptx](https://github.com/gokulan006/Bank-Marketing-Data-Analysis/blob/main/Analysis_Presentation.pptx)
  
 
 ## Key Insights
